@@ -1,0 +1,14 @@
+exports = module.exports = require("../../node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.id, ".PUswWYltLisZR3_7QiKU0{position:fixed;top:0;inset-inline-start:0;width:100vw;height:100vh;z-index:1;display:flex;align-items:center;justify-content:center;overflow:hidden;background:#000;background:linear-gradient(to bottom, var(--music-color-secondary), var(--music-color-base));animation:_2FAuPl4_LyirKkcwtZJ8pw 840ms cubic-bezier(0.17, 0, 0.67, 1) 1650ms forwards}.PUswWYltLisZR3_7QiKU0 img{transform:scale(0.75);display:flex;align-items:center;justify-content:center;animation:_3vBZ1I8HO69NiiLzs9pbR6 560ms cubic-bezier(0.81, 0.24, 0.48, 0.85) forwards,_2FAuPl4_LyirKkcwtZJ8pw 560ms cubic-bezier(0.17, 0, 0.67, 1) 1120ms forwards}@keyframes _3vBZ1I8HO69NiiLzs9pbR6{0%{opacity:0}100%{opacity:1}}@keyframes _2FAuPl4_LyirKkcwtZJ8pw{0%{opacity:1}100%{opacity:0}}\n", ""]);
+
+// exports
+exports.locals = {
+    "splash-screen": "PUswWYltLisZR3_7QiKU0",
+    "splashScreen": "PUswWYltLisZR3_7QiKU0",
+    "leave": "_2FAuPl4_LyirKkcwtZJ8pw",
+    "enter": "_3vBZ1I8HO69NiiLzs9pbR6"
+};

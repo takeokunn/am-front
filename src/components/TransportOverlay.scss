@@ -1,0 +1,27 @@
+exports = module.exports = require("../../node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.id, "._3mMzM0O1tvdmKMMcr31Djx{padding-inline-start:20px;padding-inline-end:20px}@media only screen and (min-width: 480px){._3mMzM0O1tvdmKMMcr31Djx{padding-inline-start:36px;padding-inline-end:36px}}@media only screen and (min-width: 1280px){._3mMzM0O1tvdmKMMcr31Djx{padding-inline-start:52px;padding-inline-end:52px}}._2VLcfp3uqCVWHK1Sp-KyPb,._1zDyTeG2aWLHfuZ2bApL4j,._23xrlNcCpjDTSBv4nOCckc{margin-inline-start:20px;margin-inline-end:20px}@media only screen and (min-width: 480px){._2VLcfp3uqCVWHK1Sp-KyPb,._1zDyTeG2aWLHfuZ2bApL4j,._23xrlNcCpjDTSBv4nOCckc{margin-inline-start:36px;margin-inline-end:36px}}@media only screen and (min-width: 1280px){._2VLcfp3uqCVWHK1Sp-KyPb,._1zDyTeG2aWLHfuZ2bApL4j,._23xrlNcCpjDTSBv4nOCckc{margin-inline-start:52px;margin-inline-end:52px}}._1sFp_ViLfgyxS0Q7of-I2P{display:none}._1KQ8ZJMEQNYRGj6Xoh3j_U{max-width:1600px;margin:0 10px;overflow-y:auto}@media only screen and (pointer: coarse){._1KQ8ZJMEQNYRGj6Xoh3j_U{margin:0;overflow-x:hidden}}@media only screen and (min-width: 1600px){._1KQ8ZJMEQNYRGj6Xoh3j_U,._1KQ8ZJMEQNYRGj6Xoh3j_U._3I6gw28u2EbulfMNGUaqK2{margin:0 auto}}._1zDyTeG2aWLHfuZ2bApL4j{display:block;color:rgba(221,221,221,0.6);margin-bottom:var(--music-spacer-small)}._1zDyTeG2aWLHfuZ2bApL4j span:nth-child(2){margin:0 5px}._2EEbz2znhfVM82boGMklGN,._2j4TrbsJBopOneFfchtQws{display:inline-block;height:20px;width:60px;background-color:rgba(170,170,170,0.6);border-radius:5px}._2wygg1ZgXKPt3y7gyQ8MdB{color:white}._2j4TrbsJBopOneFfchtQws{width:80px}._23xrlNcCpjDTSBv4nOCckc{display:inline-block;margin-bottom:var(--music-spacer-large);height:55px;width:285px;background-color:rgba(238,238,238,0.6);border-radius:5px}\n", ""]);
+
+// exports
+exports.locals = {
+    "grid-sides": "_3mMzM0O1tvdmKMMcr31Djx",
+    "gridSides": "_3mMzM0O1tvdmKMMcr31Djx",
+    "grid-sides-margins": "_2VLcfp3uqCVWHK1Sp-KyPb",
+    "gridSidesMargins": "_2VLcfp3uqCVWHK1Sp-KyPb",
+    "subtitle": "_1zDyTeG2aWLHfuZ2bApL4j",
+    "header-loading": "_23xrlNcCpjDTSBv4nOCckc",
+    "headerLoading": "_23xrlNcCpjDTSBv4nOCckc",
+    "hidden": "_1sFp_ViLfgyxS0Q7of-I2P",
+    "transport-overlay": "_1KQ8ZJMEQNYRGj6Xoh3j_U",
+    "transportOverlay": "_1KQ8ZJMEQNYRGj6Xoh3j_U",
+    "nowPlaying": "_3I6gw28u2EbulfMNGUaqK2",
+    "count-loading": "_2EEbz2znhfVM82boGMklGN",
+    "countLoading": "_2EEbz2znhfVM82boGMklGN",
+    "duration-loading": "_2j4TrbsJBopOneFfchtQws",
+    "durationLoading": "_2j4TrbsJBopOneFfchtQws",
+    "subtitle-text": "_2wygg1ZgXKPt3y7gyQ8MdB",
+    "subtitleText": "_2wygg1ZgXKPt3y7gyQ8MdB"
+};

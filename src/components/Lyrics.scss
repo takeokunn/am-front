@@ -1,0 +1,20 @@
+exports = module.exports = require("../../node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.id, ".oONmCRihDP4OCmq9jhp6H{padding-inline-start:20px;padding-inline-end:20px}@media only screen and (min-width: 480px){.oONmCRihDP4OCmq9jhp6H{padding-inline-start:36px;padding-inline-end:36px}}@media only screen and (min-width: 1280px){.oONmCRihDP4OCmq9jhp6H{padding-inline-start:52px;padding-inline-end:52px}}.TKORLggAr6j9ReZXK8saf{margin-inline-start:20px;margin-inline-end:20px}@media only screen and (min-width: 480px){.TKORLggAr6j9ReZXK8saf{margin-inline-start:36px;margin-inline-end:36px}}@media only screen and (min-width: 1280px){.TKORLggAr6j9ReZXK8saf{margin-inline-start:52px;margin-inline-end:52px}}.UM9lXLnqskf0yS8tO8zIO{height:100%;max-height:500px;width:100%;overflow-y:scroll;mask-image:linear-gradient(transparent, #333, transparent);-webkit-mask-image:-webkit-linear-gradient(transparent, #333, transparent);scrollbar-width:none}@media only screen and (max-width: 1024px){.UM9lXLnqskf0yS8tO8zIO{padding-inline-start:0px}}.UM9lXLnqskf0yS8tO8zIO :first-child{padding-top:150px}@media only screen and (max-width: 1024px){.UM9lXLnqskf0yS8tO8zIO :first-child{padding-top:190px}}@media only screen and (max-width: 840px){.UM9lXLnqskf0yS8tO8zIO :first-child{padding-top:90px}}.TCfSvV3kbhYft8tho7qm7,._2-IeR1VcBJka8US7xZ8OEz,._32CC9QfKgzcK-IEc7AJ3Xt{margin:48px 0;list-style-type:none;text-align:end;color:#fff;font-family:'Ember';font-weight:bold}@media only screen and (max-width: 1024px){.TCfSvV3kbhYft8tho7qm7,._2-IeR1VcBJka8US7xZ8OEz,._32CC9QfKgzcK-IEc7AJ3Xt{margin:26px 0}}@media only screen and (max-width: 640px){.TCfSvV3kbhYft8tho7qm7,._2-IeR1VcBJka8US7xZ8OEz,._32CC9QfKgzcK-IEc7AJ3Xt{margin:16px 0}}@media only screen and (orientation: portrait){.TCfSvV3kbhYft8tho7qm7,._2-IeR1VcBJka8US7xZ8OEz,._32CC9QfKgzcK-IEc7AJ3Xt{text-align:center}}.TCfSvV3kbhYft8tho7qm7{color:rgba(255,255,255,0.3)}._32CC9QfKgzcK-IEc7AJ3Xt{color:rgba(255,255,255,0.6);margin:0}._32CC9QfKgzcK-IEc7AJ3Xt:last-child{padding-bottom:150px}\n", ""]);
+
+// exports
+exports.locals = {
+    "grid-sides": "oONmCRihDP4OCmq9jhp6H",
+    "gridSides": "oONmCRihDP4OCmq9jhp6H",
+    "grid-sides-margins": "TKORLggAr6j9ReZXK8saf",
+    "gridSidesMargins": "TKORLggAr6j9ReZXK8saf",
+    "container": "UM9lXLnqskf0yS8tO8zIO",
+    "line": "TCfSvV3kbhYft8tho7qm7",
+    "active-line": "_2-IeR1VcBJka8US7xZ8OEz",
+    "activeLine": "_2-IeR1VcBJka8US7xZ8OEz",
+    "credits-line": "_32CC9QfKgzcK-IEc7AJ3Xt",
+    "creditsLine": "_32CC9QfKgzcK-IEc7AJ3Xt"
+};
