@@ -1,0 +1,12 @@
+exports = module.exports = require("../../node_modules/css-loader/lib/css-base.js")(false);
+// imports
+
+
+// module
+exports.push([module.id, "@media only screen and (max-width: 700px){._1CnSFimmxrWRSiYmBKeswY{display:none}}\n", ""]);
+
+// exports
+exports.locals = {
+    "track-container": "_1CnSFimmxrWRSiYmBKeswY",
+    "trackContainer": "_1CnSFimmxrWRSiYmBKeswY"
+};
